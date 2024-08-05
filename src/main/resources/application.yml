@@ -3,10 +3,10 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://root:gVZIzqurVcTjALSsOwIdDjRiPCGCOuWp@monorail.proxy.rlwy.net:20303/railway
+    url: jdbc:mysql://root:HEKuoQaVBSgnWClgjZejSUaIVupuXujF@viaduct.proxy.rlwy.net:58184/railway
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: gVZIzqurVcTjALSsOwIdDjRiPCGCOuWp
+    password: HEKuoQaVBSgnWClgjZejSUaIVupuXujF
 
   jpa:
     show-sql: true
